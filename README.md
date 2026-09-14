@@ -32,9 +32,7 @@ Download the latest release:
 
 ### Installation
 
-1. Download the latest `.zip` file from the Releases page.
-2. Extract the ZIP file.
-3. Open the extracted folder.
+1. Download the latest `.exe` file from the Releases page.
 4. Run `Udesel.exe`.
 
 > Note: Windows Defender or SmartScreen may display a warning because the application is not digitally signed. If you trust the source, select **More info → Run anyway**.
